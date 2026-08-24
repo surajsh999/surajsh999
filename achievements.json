@@ -1,0 +1,20 @@
+[
+  {
+    "slug": "pull-shark",
+    "name": "Pull Shark",
+    "icon": "\u25c6",
+    "tier": "x3"
+  },
+  {
+    "slug": "galaxy-brain",
+    "name": "Galaxy Brain",
+    "icon": "\u2726",
+    "tier": ""
+  },
+  {
+    "slug": "quickdraw",
+    "name": "Quickdraw",
+    "icon": "\u26a1",
+    "tier": "x3"
+  }
+]

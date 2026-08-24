@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="132" viewBox="0 0 940 132" fill="none" role="img">
+<style>
+ .ttl{font-family:'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif;font-size:16px;font-weight:700;fill:#22d3ee}
+ .lb{font-family:'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif;font-size:13px;fill:#c9d1d9}
+ .vl{font-family:'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif;font-size:13px;font-weight:700;fill:#e6f6ff}
+ .sm{font-family:'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif;font-size:11px;fill:#8b949e}
+</style>
+<rect x="0.5" y="0.5" width="939" height="131" rx="10" fill="#0a1222" stroke="#1e3a4c"/>
+<text x="24" y="32" class="ttl">GitHub Achievements</text>
+<rect x="24" y="52" width="291" height="60" rx="8" fill="#0b1a2b" stroke="#1e3a4c"/>
+<text x="169" y="76" text-anchor="middle" font-size="17" fill="#22d3ee">◆</text>
+<text x="169" y="94" text-anchor="middle" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#e6f6ff">Pull Shark</text>
+<text x="169" y="107" text-anchor="middle" class="sm" font-size="9.5">x3</text>
+<rect x="325" y="52" width="291" height="60" rx="8" fill="#0b1a2b" stroke="#1e3a4c"/>
+<text x="470" y="76" text-anchor="middle" font-size="17" fill="#22d3ee">✦</text>
+<text x="470" y="94" text-anchor="middle" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#e6f6ff">Galaxy Brain</text>
+<rect x="625" y="52" width="291" height="60" rx="8" fill="#0b1a2b" stroke="#1e3a4c"/>
+<text x="771" y="76" text-anchor="middle" font-size="17" fill="#22d3ee">⚡</text>
+<text x="771" y="94" text-anchor="middle" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#e6f6ff">Quickdraw</text>
+<text x="771" y="107" text-anchor="middle" class="sm" font-size="9.5">x3</text>
+</svg>
