@@ -70,9 +70,9 @@
 <line x1="16" y1="36" x2="1164" y2="36" stroke="#1E293B" stroke-width="1"/>
 <text x="30" y="60" class="panel-title">[ SUBJECT :: FACIAL RECONSTRUCTION ]</text>
 <text class="ascii" filter="url(#softGlow)">                                                                                                    
-<tspan x="30" y="79.98" xml:space="preserve">
-<tspan x="30" y="87.53" xml:space="preserve">
-<tspan x="30" y="95.08" xml:space="preserve">
+<tspan x="30" y="79.98" xml:space="preserve">                     
+<tspan x="30" y="87.53" xml:space="preserve">                     
+<tspan x="30" y="95.08" xml:space="preserve">                     
 <tspan x="30" y="102.63" xml:space="preserve">                              ...............................................                              
 <tspan x="30" y="110.18" xml:space="preserve">                              ...............................................                              
 <tspan x="30" y="117.73" xml:space="preserve">                           :....................................................                           
@@ -124,10 +124,6 @@
 <tspan x="30" y="465.03" xml:space="preserve">                                  ...     .:----:  .=++++*++=:.  :-.  +*.                                  
 <tspan x="30" y="472.58" xml:space="preserve">                                           .-----:.  -++==*+=:.  .-                                        
 </text>
-                                  
-                                                                                                           
-                                                                                                           
-                                                                                                           
 <rect x="22" y="66" width="448" height="418" rx="8" fill="none" stroke="#164E63" stroke-width="1" opacity="0.8"/>
 <path d="M 40 66 L 22 66 L 22 84" stroke="#22D3EE" stroke-width="2" fill="none"/>
 <path d="M 452 66 L 470 66 L 470 84" stroke="#22D3EE" stroke-width="2" fill="none"/>
