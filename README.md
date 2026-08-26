@@ -1,8 +1,8 @@
 <!-- ============ HERO ============ -->
 <div align="center">
 
-<a href="https://nikkat-afrin.github.io/">
-  <img src="./nikkat-hero-scan.svg" alt="Nikkat Afrin · AI &amp; Data Platform Engineer" width="100%"/>
+<a href="https://surajsh999.github.io/">
+  <img src="./suraj-hero-scan.svg" alt="Nikkat Afrin · AI &amp; Data Platform Engineer" width="100%"/>
 </a>
 
 <br/>
@@ -12,15 +12,15 @@
 
 <br/>
 
-<a href="https://nikkat-afrin.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=0a1222&labelColor=22d3ee" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/nikkat-afrin/"><img src="https://img.shields.io/badge/LinkedIn-0a1222?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="LinkedIn"/></a>
-<a href="mailto:fnunikkatafrin@gmail.com"><img src="https://img.shields.io/badge/Email-0a1222?style=for-the-badge&logo=gmail&logoColor=22d3ee" alt="Email"/></a>
+<a href="https://surajsh999.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=0a1222&labelColor=22d3ee" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/suraj192118110/"><img src="https://img.shields.io/badge/LinkedIn-0a1222?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="LinkedIn"/></a>
+<a href="mailto:surahsh999@gmail.com"><img src="https://img.shields.io/badge/Email-0a1222?style=for-the-badge&logo=gmail&logoColor=22d3ee" alt="Email"/></a>
 <a href="https://ieeexplore.ieee.org/abstract/document/11227622"><img src="https://img.shields.io/badge/IEEE_Xplore-0a1222?style=for-the-badge&logo=ieee&logoColor=22d3ee" alt="IEEE"/></a>
 <img src="https://komarev.com/ghpvc/?username=Nikkat-Afrin&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS" alt="Profile views"/>
 
 <br/><br/>
 
-### 🪐 &nbsp;[**nikkat-afrin.github.io**](https://nikkat-afrin.github.io/)
+### 🪐 &nbsp;[**surajsh999.github.io**](https://surajsh999.github.io/)
 
 Live dashboards, the IEEE paper, and every project in one place.
 
@@ -33,7 +33,7 @@ Live dashboards, the IEEE paper, and every project in one place.
 <tr>
 <td width="36%" align="center" valign="middle">
 
-<img src="./nikkat-lanyard.svg" alt="Nikkat Afrin ID badge" width="300"/>
+<img src="./suraj-lanyard.svg" alt="Nikkat Afrin ID badge" width="300"/>
 
 </td>
 <td width="64%" valign="top">
