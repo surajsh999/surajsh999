@@ -33,7 +33,7 @@ Live dashboards, the IEEE paper, and every project in one place.
 <tr>
 <td width="36%" align="center" valign="middle">
 
-<img src="./suraj-lanyard.svg" alt="Nikkat Afrin ID badge" width="300"/>
+<img src="./suraj-lanyard.svg" alt="SURAJ DESHMUKH ID badge" width="300"/>
 
 </td>
 <td width="64%" valign="top">
@@ -185,9 +185,9 @@ A theoretically exact, recursive algorithm that extracts decision boundaries for
 
 I'm open to roles and collaboration in **AI/ML engineering, data platforms, and applied AI research.**
 
-<a href="https://nikkat-afrin.github.io/"><img src="https://img.shields.io/badge/View_my_portfolio-a78bfa?style=for-the-badge&logo=googlechrome&logoColor=0a1222" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/nikkat-afrin/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-22d3ee?style=for-the-badge&logo=linkedin&logoColor=0a1222" alt="LinkedIn"/></a>
-<a href="mailto:fnunikkatafrin@gmail.com"><img src="https://img.shields.io/badge/Email_me-38bdf8?style=for-the-badge&logo=gmail&logoColor=0a1222" alt="Email"/></a>
+<a href="https://surajsh999.github.io/"><img src="https://img.shields.io/badge/View_my_portfolio-a78bfa?style=for-the-badge&logo=googlechrome&logoColor=0a1222" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/suraj192118110/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-22d3ee?style=for-the-badge&logo=linkedin&logoColor=0a1222" alt="LinkedIn"/></a>
+<a href="mailto:surajsh999@gmail.com"><img src="https://img.shields.io/badge/Email_me-38bdf8?style=for-the-badge&logo=gmail&logoColor=0a1222" alt="Email"/></a>
 
 <br/><br/>
 

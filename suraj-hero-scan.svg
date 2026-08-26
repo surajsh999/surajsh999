@@ -65,7 +65,7 @@
 <rect width="1180" height="610" rx="16" fill="url(#scanlines)"/>
 <g mask="url(#revealMask)">
 <circle cx="26" cy="20" r="5" fill="#FF5F57"/><circle cx="44" cy="20" r="5" fill="#FEBC2E"/><circle cx="62" cy="20" r="5" fill="#28C840"/>
-<text x="86" y="24" class="term-label">nikkat@github: ~/profile</text>
+<text x="86" y="24" class="term-label">suraj@github: ~/profile</text>
 <text x="1150" y="24" text-anchor="end" class="scan-label">● BIOMETRIC SCAN ACTIVE</text>
 <line x1="16" y1="36" x2="1164" y2="36" stroke="#1E293B" stroke-width="1"/>
 <text x="30" y="60" class="panel-title">[ SUBJECT :: FACIAL RECONSTRUCTION ]</text>
@@ -131,11 +131,11 @@
 <path d="M 452 484 L 470 484 L 470 466" stroke="#22D3EE" stroke-width="2" fill="none"/>
 <text x="30" y="502" class="scan-label">MATCH CONFIDENCE: 99.7%  ·  STATUS: VERIFIED</text>
 <text x="490" y="18.0" class="panel-title">[ IDENTITY RECORD ]</text>
-<g clip-path="url(#lc0)"><text x="520" y="42.0" fill="#dbeafe"><tspan x="520" y="42.0"><tspan class="head">NIKKAT AFRIN</tspan><tspan class="cc">  ~  </tspan><tspan class="value">AI &amp; Data Platform Engineer</tspan></tspan></text></g>
+<g clip-path="url(#lc0)"><text x="520" y="42.0" fill="#dbeafe"><tspan x="520" y="42.0"><tspan class="head">Suraj Deshmukh</tspan><tspan class="cc">  ~  </tspan><tspan class="value">AI &amp; Data Platform Engineer</tspan></tspan></text></g>
 <g clip-path="url(#lc1)"><text x="520" y="64.0" fill="#dbeafe"><tspan x="520" y="64.0"><tspan class="cc">-</tspan></tspan></text></g>
 <g clip-path="url(#lc2)"><text x="520" y="86.0" fill="#dbeafe"><tspan x="520" y="86.0"><tspan class="accent">- Profile</tspan><tspan class="cc"> -————————————————————————————————————————————-—-</tspan></tspan></text></g>
 <g clip-path="url(#lc3)"><text x="520" y="108.0" fill="#dbeafe"><tspan x="520" y="108.0"><tspan class="cc">. </tspan><tspan class="key">Sys</tspan><tspan class="cc">.</tspan><tspan class="key">Role</tspan><tspan class="cc">: ......... </tspan><tspan class="value">AI &amp; Data Platform Engineer @ Peblink</tspan></tspan></text></g>
-<g clip-path="url(#lc4)"><text x="520" y="130.0" fill="#dbeafe"><tspan x="520" y="130.0"><tspan class="cc">. </tspan><tspan class="key">Sys</tspan><tspan class="cc">.</tspan><tspan class="key">Base</tspan><tspan class="cc">: ......... </tspan><tspan class="value">New York, USA</tspan></tspan></text></g>
+<g clip-path="url(#lc4)"><text x="520" y="130.0" fill="#dbeafe"><tspan x="520" y="130.0"><tspan class="cc">. </tspan><tspan class="key">Sys</tspan><tspan class="cc">.</tspan><tspan class="key">Base</tspan><tspan class="cc">: ......... </tspan><tspan class="value">Hyderabad India</tspan></tspan></text></g>
 <g clip-path="url(#lc5)"><text x="520" y="152.0" fill="#dbeafe"><tspan x="520" y="152.0"><tspan class="cc">. </tspan><tspan class="key">Sys</tspan><tspan class="cc">.</tspan><tspan class="key">Edu</tspan><tspan class="cc">: .......... </tspan><tspan class="value">Yeshiva University</tspan></tspan></text></g>
 <g clip-path="url(#lc6)"><text x="520" y="174.0" fill="#dbeafe"><tspan x="520" y="174.0"><tspan class="cc">. </tspan><tspan class="key">Sys</tspan><tspan class="cc">.</tspan><tspan class="key">Research</tspan><tspan class="cc">: ..... </tspan><tspan class="value">IEEE IJCNN 2025 — First Author</tspan></tspan></text></g>
 <g clip-path="url(#lc7)"><text x="520" y="196.0" fill="#dbeafe"><tspan x="520" y="196.0"><tspan class="cc">. </tspan></tspan></text></g>
@@ -151,8 +151,8 @@
 <g clip-path="url(#lc17)"><text x="520" y="416.0" fill="#dbeafe"><tspan x="520" y="416.0"><tspan class="cc">. </tspan><tspan class="key">Pub</tspan><tspan class="cc">.</tspan><tspan class="key">Next</tspan><tspan class="cc">: ......... </tspan><tspan class="value">SigmaCam++ — under review @ IEEE TNNLS</tspan></tspan></text></g>
 <g clip-path="url(#lc18)"><text x="520" y="438.0" fill="#dbeafe"><tspan x="520" y="438.0"><tspan class="cc">. </tspan></tspan></text></g>
 <g clip-path="url(#lc19)"><text x="520" y="460.0" fill="#dbeafe"><tspan x="520" y="460.0"><tspan class="accent">- Contact</tspan><tspan class="cc"> -————————————————————————————————————————————-—-</tspan></tspan></text></g>
-<g clip-path="url(#lc20)"><text x="520" y="482.0" fill="#dbeafe"><tspan x="520" y="482.0"><tspan class="cc">. </tspan><tspan class="key">Grid</tspan><tspan class="cc">.</tspan><tspan class="key">LinkedIn</tspan><tspan class="cc">: .... </tspan><tspan class="value">in/nikkat-afrin</tspan></tspan></text></g>
-<g clip-path="url(#lc21)"><text x="520" y="504.0" fill="#dbeafe"><tspan x="520" y="504.0"><tspan class="cc">. </tspan><tspan class="key">Grid</tspan><tspan class="cc">.</tspan><tspan class="key">Github</tspan><tspan class="cc">: ...... </tspan><tspan class="value">Nikkat-Afrin</tspan></tspan></text></g>
+<g clip-path="url(#lc20)"><text x="520" y="482.0" fill="#dbeafe"><tspan x="520" y="482.0"><tspan class="cc">. </tspan><tspan class="key">Grid</tspan><tspan class="cc">.</tspan><tspan class="key">LinkedIn</tspan><tspan class="cc">: .... </tspan><tspan class="value">in/suraj192118110</tspan></tspan></text></g>
+<g clip-path="url(#lc21)"><text x="520" y="504.0" fill="#dbeafe"><tspan x="520" y="504.0"><tspan class="cc">. </tspan><tspan class="key">Grid</tspan><tspan class="cc">.</tspan><tspan class="key">Github</tspan><tspan class="cc">: ...... </tspan><tspan class="value">Surajsh999</tspan></tspan></text></g>
 <g clip-path="url(#lc22)"><text x="520" y="526.0" fill="#dbeafe"><tspan x="520" y="526.0"><tspan class="cc">. </tspan></tspan></text></g>
 <g clip-path="url(#lc23)"><text x="520" y="548.0" fill="#dbeafe"><tspan x="520" y="548.0"><tspan class="accent">- Live Stats</tspan><tspan class="cc"> -————————————————————————————————————————————-—-</tspan></tspan></text></g>
 <g clip-path="url(#lc24)"><text x="520" y="570.0" fill="#dbeafe"><tspan x="520" y="570.0"><tspan class="cc">. </tspan><tspan class="value">See live GitHub stats below ↓</tspan></tspan></text></g>
