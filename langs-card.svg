@@ -8,30 +8,26 @@
 <rect x="0.5" y="0.5" width="459" height="199" rx="10" fill="#0a1222" stroke="#1e3a4c"/>
 <text x="24" y="32" class="ttl">Most Used Languages</text>
 <clipPath id="bc"><rect x="24" y="56" width="412" height="11" rx="5.5"/></clipPath><g clip-path="url(#bc)">
-<rect x="24.0" y="56" width="248.4" height="11" fill="#22d3ee"/>
-<rect x="272.4" y="56" width="73.3" height="11" fill="#38bdf8"/>
-<rect x="345.6" y="56" width="62.9" height="11" fill="#67e8f9"/>
-<rect x="408.5" y="56" width="21.7" height="11" fill="#0ea5e9"/>
-<rect x="430.3" y="56" width="3.3" height="11" fill="#7dd3fc"/>
-<rect x="433.5" y="56" width="2.5" height="11" fill="#164e63"/>
+<rect x="24.0" y="56" width="204.2" height="11" fill="#22d3ee"/>
+<rect x="228.2" y="56" width="69.3" height="11" fill="#38bdf8"/>
+<rect x="297.6" y="56" width="68.7" height="11" fill="#67e8f9"/>
+<rect x="366.2" y="56" width="68.7" height="11" fill="#0ea5e9"/>
+<rect x="434.9" y="56" width="1.1" height="11" fill="#7dd3fc"/>
 </g>
 <circle cx="29" cy="90" r="5" fill="#22d3ee"/>
-<text x="42" y="94" class="lb">Jupyter Notebook</text>
-<text x="214" y="94" text-anchor="end" class="vl">60.3%</text>
+<text x="42" y="94" class="lb">HTML</text>
+<text x="214" y="94" text-anchor="end" class="vl">49.6%</text>
 <circle cx="244" cy="90" r="5" fill="#38bdf8"/>
-<text x="257" y="94" class="lb">Python</text>
-<text x="429" y="94" text-anchor="end" class="vl">17.8%</text>
+<text x="257" y="94" class="lb">JavaScript</text>
+<text x="429" y="94" text-anchor="end" class="vl">16.8%</text>
 <circle cx="29" cy="116" r="5" fill="#67e8f9"/>
-<text x="42" y="120" class="lb">HTML</text>
-<text x="214" y="120" text-anchor="end" class="vl">15.3%</text>
+<text x="42" y="120" class="lb">Python</text>
+<text x="214" y="120" text-anchor="end" class="vl">16.7%</text>
 <circle cx="244" cy="116" r="5" fill="#0ea5e9"/>
-<text x="257" y="120" class="lb">JavaScript</text>
-<text x="429" y="120" text-anchor="end" class="vl">5.3%</text>
+<text x="257" y="120" class="lb">HCL</text>
+<text x="429" y="120" text-anchor="end" class="vl">16.7%</text>
 <circle cx="29" cy="142" r="5" fill="#7dd3fc"/>
-<text x="42" y="146" class="lb">Cypher</text>
-<text x="214" y="146" text-anchor="end" class="vl">0.8%</text>
-<circle cx="244" cy="142" r="5" fill="#164e63"/>
-<text x="257" y="146" class="lb">Shell</text>
-<text x="429" y="146" text-anchor="end" class="vl">0.6%</text>
-<text x="24" y="182" class="sm">Average language share across 20 public repositories</text>
+<text x="42" y="146" class="lb">CSS</text>
+<text x="214" y="146" text-anchor="end" class="vl">0.3%</text>
+<text x="24" y="182" class="sm">Average language share across 6 public repositories</text>
 </svg>
